@@ -1,7 +1,22 @@
 ---
-title: "Read"
+title: "博览群书"
 layout: "read"
 --- 
 
-## 读书笔记列表
+> 才不胜今人，不足以为才；学不胜古人，不足以为学。
 
+**2023年8月**
+
+[《谋位：张居正从少年到国相》](https://weread.qq.com/web/bookDetail/8c5327c0524f2c8c5208639) | [点评](#)
+
+**2022年**
+
+[《二把手》](https://weread.qq.com/web/bookDetail/aac32cb0813ab6e11g01388e) | [点评](https://weread.qq.com/web/review/detail/356072543_7BjdgwDbC)
+
+[《刀锋》](https://weread.qq.com/web/bookDetail/41f3285071db384b41fae8e) | [点评](https://weread.qq.com/web/review/detail/356072543_7Ba7nsRsU)
+
+[《老五》](https://weread.qq.com/web/bookDetail/5d332e10729dc7435d342f5) | [点评](https://weread.qq.com/web/review/detail/356072543_7B9b4mwUb)
+
+**2021年**
+
+[《云边有个小卖部》](https://weread.qq.com/web/bookDetail/bab32a3071628416babd854) | [点评](https://weread.qq.com/web/review/detail/356072543_7sqi0rEwi)

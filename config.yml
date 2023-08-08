@@ -35,11 +35,11 @@ menu:
     #   weight: 5
 params:
   brand: 主页
-  avatarURL: /images/photo.png
-  author: Junhaodada
+  avatarURL: /images/photo.jpg
+  author: Junhaodada's Blog
   authorDescription: ------
   info: keep a low profile, careful with words and deeds.
-  favicon: /images/photo.png
+  favicon: /images/photo.jpg
   options:
     showDarkMode: true
     enableImgZooming: true
