@@ -9,6 +9,10 @@ layout: "read"
 
 [《谋位：张居正从少年到国相》](https://weread.qq.com/web/bookDetail/8c5327c0524f2c8c5208639) | [点评](#)
 
+**2023年7月**
+
+[狙击室](https://weread.qq.com/web/bookDetail/b3f327c0813ab78b9g015926) | [笔记](/blog/book/the-kill-room/)
+
 **2022年**
 
 [《二把手》](https://weread.qq.com/web/bookDetail/aac32cb0813ab6e11g01388e) | [点评](https://weread.qq.com/web/review/detail/356072543_7BjdgwDbC)
