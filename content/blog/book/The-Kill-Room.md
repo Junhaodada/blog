@@ -1,11 +1,13 @@
 ---
 date: 2023-08-09T18:31:20+08:00
-title: "狙击室·读书笔记"
+title: "《狙击室》·读书笔记"
 description: ""
 tags: ["book"]
 series: []
 ---
 >这是一本侦探悬疑小说，作者是"杰夫里.迪弗"。
+
+<!--more-->
 
 ![](/content/blog/book/killroom.jpg)
 

@@ -7,11 +7,11 @@ layout: "read"
 
 **2023年8月**
 
-[《谋位：张居正从少年到国相》](https://weread.qq.com/web/bookDetail/8c5327c0524f2c8c5208639) | [点评](#)
+[《谋位：张居正从少年到国相》](https://weread.qq.com/web/bookDetail/8c5327c0524f2c8c5208639) | [笔记](/blog/book/mou-wei/) |  [点评](https://weread.qq.com/web/review/detail/356072543_7KltnyKdz)
 
 **2023年7月**
 
-[狙击室](https://weread.qq.com/web/bookDetail/b3f327c0813ab78b9g015926) | [笔记](/blog/book/the-kill-room/)
+[《狙击室》](https://weread.qq.com/web/bookDetail/b3f327c0813ab78b9g015926) | [笔记](/blog/book/the-kill-room/)
 
 **2022年**
 

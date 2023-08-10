@@ -2,7 +2,7 @@
 date: 2023-08-09T17:31:32+08:00
 title: "工具整理"
 description: "常用工具整理列表集合"
-tags: []
+tags: ["essay"]
 series: []
 featured: true
 ---
@@ -99,6 +99,9 @@ featured: true
     - [leetcode热题100](https://leetcode.cn/studyplan/top-100-liked/)
 
   - 操作系统
+    - [图解系统-小林](https://www.xiaolincoding.com/os/)
+
+    - [操作系统 - 清华大学](https://www.bilibili.com/video/BV1uW411f72n)
 
   - 计算机网络
 
