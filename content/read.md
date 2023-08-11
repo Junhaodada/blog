@@ -7,6 +7,8 @@ layout: "read"
 
 **2023年8月**
 
+[《世界上最简单的会计书》](https://weread.qq.com/web/bookDetail/1cb32c70597d451cb6e5dcb) | [笔记](/blog/book/the-accounting-game/)
+
 [《谋位：张居正从少年到国相》](https://weread.qq.com/web/bookDetail/8c5327c0524f2c8c5208639) | [笔记](/blog/book/mou-wei/) |  [点评](https://weread.qq.com/web/review/detail/356072543_7KltnyKdz)
 
 **2023年7月**
