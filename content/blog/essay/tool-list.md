@@ -19,6 +19,18 @@ featured: true
 | [微博 - 随时随地发生新鲜事](https://weibo.com/)                                                                                                 | [facebook](https://www.facebook.com/)        |
 | [抖音-记录美好生活](https://www.douyin.com/)                                                                                                    | [TikTok](https://www.tiktok.com/foryou)      |
 
+
+
+[Kadaza - The Ultimate Homepage & Web Portal --- Kadaza - 终极主页和门户网站](https://www.kadaza.com/)
+
+[Reddit - Dive into anything --- Reddit - 深入了解任何内容](https://www.reddit.com/)
+
+[Reuters | Breaking International News & Views --- 路透社 |突发国际新闻和观点](https://www.reuters.com/)
+
+[Wikipedia, the free encyclopedia --- 维基百科，自由的百科全书](https://en.wikipedia.org/wiki/Main_Page)
+
+[探索互联网上高质量的内容 | 沉浸式翻译](https://immersivetranslate.com/docs/sites/#网站导航)
+
 ## 期刊杂志
 
 - [TIME | Current & Breaking News | National & World Updates](https://time.com/)
@@ -236,6 +248,7 @@ featured: true
     - [lunarvim](https://www.lunarvim.org/zh-Hans/)
   - VsCode
     - [14个Vscode插件推荐](https://www.51cto.com/article/704237.html)
+- [沉浸式翻译 - 开始使用](https://onboarding.immersivetranslate.com/step-3/)
 
 ## 平台搭建
 
@@ -272,7 +285,7 @@ featured: true
           - [LoveIt](https://github.com/dillonzq/LoveIt) | [hugo-coder](https://github.com/luizdepra/hugo-coder/tree/main) | [hugo-theme-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
 
     - 优质博客
-      - [老胡的储物柜](https://www.howie6879.com/) | [田少晗的个人博客](https://shaohanyun.top/)
+      - [老胡的储物柜](https://www.howie6879.com/) | [田少晗的个人博客](https://shaohanyun.top/) | [9ong](http://www.9ong.com/)
 
 ## 就业实习
 
