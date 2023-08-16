@@ -18,7 +18,7 @@ menu:
     - name: 关于
       url: /about
       weight: 1
-    - name: 学习
+    - name: 学业
       url: /study
       weight: 2
     - name: 读书

@@ -39,15 +39,12 @@ math: true
 
 * 泰迪科技 |  数据分析实习生 | 2022.11~2023.01
   + 负责数据分析任务
-* 字节跳动 | AI实习生 | 2023.05~2023.09
-  + 参与代码生成方向的大模型训练，主要负责训练代码数据的sft、质检工作，主要包括六大常用编程语言：C++、Java、python、Go、JS、SQL。
+* 字节跳动 | 大模型训练 | 2023.05~2023.09
+  + 参与代码生成方向的LLM训练，主要负责训练代码数据集的sft、质检工作，LLM最新研究进展调研。
 
 ## 开源项目
 
-* [MachineLearning](http://junhaodada.github.io/MachineLearning/) | 机器学习笔记
 * [IntelligentOptimizationAlgorithm](https://github.com/Junhaodada/IntelligentOptimizationAlgorithm) | 智能优化算法学习笔记
-* [OSTEP_Note](https://github.com/Junhaodada/OSTEP_Note) | 《操作系统导论》学习记录
-* [Cpp_Note](https://github.com/Junhaodada/Cpp_Note) | 《C++ Primer》学习记录
 
 ## 学术论文
 
