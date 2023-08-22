@@ -13,9 +13,9 @@ layout: "read"
 
 [《机器学习：公式推导与代码实现》](https://weread.qq.com/web/bookDetail/77d3255072a838d277db01a) | [笔记](/blog/book/ml-formula-derivation-and-code-implementation)
 
-[《超越平庸：在央企担任总经理的岁月》](https://weread.qq.com/web/bookDetail/fb2328b07249a790fb2e267) | [笔记](/blog/book/beyond-mediocrity/)
-
 [《世界上最简单的会计书》](https://weread.qq.com/web/bookDetail/1cb32c70597d451cb6e5dcb) | [笔记](/blog/book/the-accounting-game/)
+
+[《超越平庸：在央企担任总经理的岁月》](https://weread.qq.com/web/bookDetail/fb2328b07249a790fb2e267) | [点评](https://weread.qq.com/web/review/detail/356072543_7KEGcRl1k)
 
 [《谋位：张居正从少年到国相》](https://weread.qq.com/web/bookDetail/8c5327c0524f2c8c5208639) | [笔记](/blog/book/mou-wei/) |  [点评](https://weread.qq.com/web/review/detail/356072543_7KltnyKdz)
 
