@@ -7,11 +7,9 @@ layout: "read"
 
 **2023年8月**
 
-[《C++新经典》](https://weread.qq.com/web/bookDetail/55f32d30813ab6ea1g017832) | [笔记](/blog/book/cpp-new-classic/)
+[《中国历代政治得失》](https://weread.qq.com/web/bookDetail/ffa323707166ef00ffa7080) | [笔记](/blog/book/merits-and-demerits-of-political-systems-in-dynastic-china/)
 
-[《操作系统导论》](https://book.douban.com/subject/33463930/) | [笔记](/blog/book/operating-systems-three-easy-pieces/)
-
-[《机器学习：公式推导与代码实现》](https://weread.qq.com/web/bookDetail/77d3255072a838d277db01a) | [笔记](/blog/book/ml-formula-derivation-and-code-implementation)
+[《丰乳肥臀》](https://weread.qq.com/web/bookDetail/ea532d2071938fb5ea51430) | [点评](https://weread.qq.com/web/review/detail/356072543_7KPisLcf6)
 
 [《世界上最简单的会计书》](https://weread.qq.com/web/bookDetail/1cb32c70597d451cb6e5dcb) | [笔记](/blog/book/the-accounting-game/)
 

@@ -27,5 +27,5 @@ series: []
 
 然后对下载Nerd font，参考[terminal设置](https://learn.microsoft.com/zh-cn/windows/terminal/tutorials/custom-prompt-setup)进行字体修改。
 
-![](../../../static/content/blog/cs/Snipaste_2023-08-20_17-08-04.jpg)
+![](/content/blog/cs/Snipaste_2023-08-20_17-08-04.jpg)
 
